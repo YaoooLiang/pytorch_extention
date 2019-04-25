@@ -1,2 +1,7 @@
 # pytorch_extention
-pytorch结合C以及CUDA
+
+a simple implementation demo about add function using pytorch extention
+
+pytoch == 0.4.0
+
+python main.py
